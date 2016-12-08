@@ -1,5 +1,5 @@
 applications:
-- path: target/JavaHelloWorldApp.wa
+- path: target/JavaHelloWorldApp.w
   memory: 512M
   instances: 1
   domain: mybluemix.net
